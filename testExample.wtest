@@ -1,4 +1,4 @@
-import mensajeros.*
+import example.*
 
 describe "test de segunda parte" {
 
